@@ -1,2 +1,2 @@
 # Analog-Clock
-Project : using html, css and java script 
+complete working analog clock using html css and js
